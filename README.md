@@ -2,7 +2,7 @@
 只需添加data文件就可以
 目前还有很多严重的bug,希望大家帮我改一改
 文件树如下
-'''file
+```file
 main.py 主程序
 data
  bg.png 背景图450x600
@@ -19,8 +19,8 @@ data
    1.png
    2.png
    ......
-'''
-'''pngs.json例子
+```
+```pngs.json例子
 {
     "c":10,
     "frames":[
@@ -34,4 +34,9 @@ data
         }
     ]
 }
-'''
+```
+```c.txt例子
+a
+b
+c
+```
