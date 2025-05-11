@@ -20,7 +20,8 @@ data
    2.png
    ......
 ```
-```pngs.json例子
+```
+pngs.json例子
 {
     "c":10,
     "frames":[
@@ -35,7 +36,8 @@ data
     ]
 }
 ```
-```c.txt例子
+```
+c.txt例子
 a
 b
 c
